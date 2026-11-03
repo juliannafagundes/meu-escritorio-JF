@@ -1,0 +1,72 @@
+{
+  "gerado_em": "03/11/2026 10:11",
+  "painel": {
+    "versao": "3.1.0",
+    "arquivo": "painel/JF_Meu_Escritorio.jfpack",
+    "iv": "6339a874a4d1abf28db0ba184e5d99eb",
+    "sha256": "730d45ca04fb6a1a9ccf94a69c3d46be139dbee6eef8ea965ee0012723b7e803",
+    "notas": ""
+  },
+  "plugins": [
+    {
+      "pasta": "jf_print_lote",
+      "titulo": "JF - Print em Lote",
+      "versao": "1.5.0",
+      "tema": "02 - Print",
+      "arquivo": "plugins/jf_print_lote.jfpack",
+      "iv": "d31dfd19788b6e9a009a53cf297517d6",
+      "sha256": "52dc56b297b8b865677fb314b0b315eba945e5376e4a9d755d5223f357b764bc",
+      "notas": ""
+    },
+    {
+      "pasta": "jf_etiquetas_anotacao",
+      "titulo": "JF - Etiquetas Anotação",
+      "versao": "1.5.1",
+      "tema": "03 - Det. Anotações e Área dos Ambientes",
+      "arquivo": "plugins/jf_etiquetas_anotacao.jfpack",
+      "iv": "e2f70e4eb3144e91fa886c1a4a2afe05",
+      "sha256": "8f2e6329c38485b83a9a65899b72f28854166f8c3ef6bbccfdc380093f859197",
+      "notas": ""
+    },
+    {
+      "pasta": "jf_gerar_relatorio",
+      "titulo": "JF - Área do Ambiente",
+      "versao": "2.15.2",
+      "tema": "03 - Det. Anotações e Área dos Ambientes",
+      "arquivo": "plugins/jf_gerar_relatorio.jfpack",
+      "iv": "469ec3dac8f00679d2845f681f2437ce",
+      "sha256": "790243c99d9eb482b0fd8af17b0b1db30363f910033470d7246a9fbe279f9823",
+      "notas": ""
+    },
+    {
+      "pasta": "esquadrias_relatorio",
+      "titulo": "JF - Gerar Relatório - Esquadrias",
+      "versao": "1.21.0",
+      "tema": "04 - Tabela das Esquadrias",
+      "arquivo": "plugins/esquadrias_relatorio.jfpack",
+      "iv": "600c30a542d434f2d7cdfe17d691d07a",
+      "sha256": "3a132d5dc421472ebf692fc5f8427ee8d54eeb678a570fa863fccb9115f41364",
+      "notas": ""
+    },
+    {
+      "pasta": "jf_det_marcenaria",
+      "titulo": "JF - Det.Marcenaria",
+      "versao": "5.0.0",
+      "tema": "05 - Det. Marcenaria",
+      "arquivo": "plugins/jf_det_marcenaria.jfpack",
+      "iv": "9feccea4b6e57ec8f379d21a310de3b7",
+      "sha256": "c12a13fc5ba274ddc06f585a52c2e4fd2821db55c3bf244db0563961e9f50989",
+      "notas": ""
+    },
+    {
+      "pasta": "anotacoes_checklist",
+      "titulo": "JF - Checklist do projeto",
+      "versao": "1.4.0",
+      "tema": "06 - Checklist do Projeto",
+      "arquivo": "plugins/anotacoes_checklist.jfpack",
+      "iv": "a0a488419acdd9a2ddd50fb9ba180e3f",
+      "sha256": "6dbe730b77a97142197173d36d727cbca645164c56b11c8ccdd639b64e16279a",
+      "notas": ""
+    }
+  ]
+}
