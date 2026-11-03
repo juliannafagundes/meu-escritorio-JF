@@ -2,7 +2,7 @@
 
 Arquivos lidos automaticamente pelo plugin JF - Meu Escritório. Não mude os nomes nem apague o atualizacoes.json.
 
-Painel: versão 3.1.0
+Painel: versão 3.2.0
 
 | Tema | Plugin | Versão |
 |---|---|---|
