@@ -1,11 +1,11 @@
 {
-  "gerado_em": "03/11/2026 10:23",
+  "gerado_em": "07/11/2026 12:33",
   "painel": {
     "versao": "3.2.0",
     "arquivo": "painel/JF_Meu_Escritorio.jfpack",
-    "iv": "a55bf2570c4a732f2ada7d63c546d126",
-    "sha256": "10a9b551b45351865533919aca0e7b332739608e7178a5aa2a43f690eaf00ac4",
-    "notas": "Menu mais simples e botão para resolver plugins instalados duas vezes."
+    "iv": "cc1427e0aa6dc699b7dc97d8c40ae723",
+    "sha256": "7f0ee573827259f4a758d3469f6facf5e6bd0a060f21ee0c01c6f66eac94be34",
+    "notas": ""
   },
   "plugins": [
     {
@@ -14,8 +14,8 @@
       "versao": "1.5.0",
       "tema": "02 - Print",
       "arquivo": "plugins/jf_print_lote.jfpack",
-      "iv": "2f0d7533670d800bc2c9e3d5eae7bc7d",
-      "sha256": "cc3e85d501844e370f8e507e13ed2b920ace03e0c9389fb0800cdf8531cb9ac3",
+      "iv": "a9d5c080b396261ac8d919513ac1de46",
+      "sha256": "918eaf22a9b0b5abf6e601dc5044273f600cd787727b2191cac10f44e02bde73",
       "notas": ""
     },
     {
@@ -24,8 +24,8 @@
       "versao": "1.5.1",
       "tema": "03 - Det. Anotações e Área dos Ambientes",
       "arquivo": "plugins/jf_etiquetas_anotacao.jfpack",
-      "iv": "65a7bcc2aad4ca3bc95a09ca470553cc",
-      "sha256": "7b93cf0e0a88decbc136b6397f0581fa8900bae93e443ed5576423b571595534",
+      "iv": "7844bca33a677833dd8e5db05a0b7522",
+      "sha256": "959f0b32c81c3ab333c7ca4948546f0dc550875dc8c83b5239620d2d0ad4cb2d",
       "notas": ""
     },
     {
@@ -34,8 +34,8 @@
       "versao": "2.15.2",
       "tema": "03 - Det. Anotações e Área dos Ambientes",
       "arquivo": "plugins/jf_gerar_relatorio.jfpack",
-      "iv": "73128aa0ef7a350ea78838aab283fed7",
-      "sha256": "474057e3d348ad66530835ffbb48586281180e3835f791ba4f1efb16e08140bc",
+      "iv": "4ed28c64cd353a4632de8900b5bccc68",
+      "sha256": "71237d2dfaa3dd9b95ad8a4c91272880def9b69b573190db9717858735699a60",
       "notas": ""
     },
     {
@@ -44,19 +44,19 @@
       "versao": "1.21.0",
       "tema": "04 - Tabela das Esquadrias",
       "arquivo": "plugins/esquadrias_relatorio.jfpack",
-      "iv": "38df70b9961b2b429e58ca88f43c722d",
-      "sha256": "0fe2d447ef2e7d26f475e7efae23ba11a2a35ed50e9f20ba79bbf67877d3cb50",
+      "iv": "54e1970ae5022242262566ccc662a343",
+      "sha256": "13b38a78b44c9756a9e211dd95183c7a0e2587da42350a4edd9d7dd9f70dc397",
       "notas": ""
     },
     {
       "pasta": "jf_det_marcenaria",
       "titulo": "JF - Det.Marcenaria",
-      "versao": "5.0.0",
+      "versao": "6.1.0",
       "tema": "05 - Det. Marcenaria",
       "arquivo": "plugins/jf_det_marcenaria.jfpack",
-      "iv": "928ae4450b5991ac3d84edc7e32cced9",
-      "sha256": "65ab1bfb506f0a76d9b5f9d85577e6d0d96b00340aa336a2e92f6274eb38bffb",
-      "notas": ""
+      "iv": "5d69303a849278bf0038df1605d05740",
+      "sha256": "e7f034c3d6b7d386cdda0941d7405f580ed0718cb76f34f47c1554cf6395f23a",
+      "notas": "Novo: Det. Vistas · Pranchas do LayOut."
     },
     {
       "pasta": "anotacoes_checklist",
@@ -64,8 +64,8 @@
       "versao": "1.4.0",
       "tema": "06 - Checklist do Projeto",
       "arquivo": "plugins/anotacoes_checklist.jfpack",
-      "iv": "40ad9f71c54cf0409ca220a366e6c61d",
-      "sha256": "c92342960902f496c74937e00817b370f94fe17e15bb4360a90846bab33984a1",
+      "iv": "a29ad3b567643c90f20fec1f3da11ee1",
+      "sha256": "d67144341154db2f695ab49e42ecfe45319d390e7b453526729ff184ddaa738c",
       "notas": ""
     }
   ]
