@@ -1,28 +1,38 @@
 {
-  "gerado_em": "07/11/2026 12:33",
+  "gerado_em": "07/11/2026 12:53",
   "painel": {
-    "versao": "3.2.0",
+    "versao": "3.3.0",
     "arquivo": "painel/JF_Meu_Escritorio.jfpack",
-    "iv": "cc1427e0aa6dc699b7dc97d8c40ae723",
-    "sha256": "7f0ee573827259f4a758d3469f6facf5e6bd0a060f21ee0c01c6f66eac94be34",
-    "notas": ""
+    "iv": "a90595c197125ac30da6c7442d73f727",
+    "sha256": "358f7ed69446be7551f12bca1466cefcf1cd0c51a7f2acc1a275422e329efd4e",
+    "notas": "Grátis para o escritório (sem chave). Temas novos: Print e Tour 360, Det. Anotações, Área dos Ambientes, Detalhamentos e Mobiliário."
   },
   "plugins": [
     {
       "pasta": "jf_print_lote",
       "titulo": "JF - Print em Lote",
       "versao": "1.5.0",
-      "tema": "02 - Print",
+      "tema": "02 - Print e Tour 360",
       "arquivo": "plugins/jf_print_lote.jfpack",
       "iv": "a9d5c080b396261ac8d919513ac1de46",
       "sha256": "918eaf22a9b0b5abf6e601dc5044273f600cd787727b2191cac10f44e02bde73",
       "notas": ""
     },
     {
+      "pasta": "tour360",
+      "titulo": "Tour 360",
+      "versao": "1.7.0",
+      "tema": "02 - Print e Tour 360",
+      "arquivo": "plugins/tour360.jfpack",
+      "iv": "4bbb92514d8957bab76b0b73ffc24e2c",
+      "sha256": "eb75c6634ac626eeac8f371476abddffaea1ba01f6359912e3f1924fa89394db",
+      "notas": "Novo: gera um tour 360 navegável a partir das cenas."
+    },
+    {
       "pasta": "jf_etiquetas_anotacao",
       "titulo": "JF - Etiquetas Anotação",
       "versao": "1.5.1",
-      "tema": "03 - Det. Anotações e Área dos Ambientes",
+      "tema": "03 - Det. Anotações",
       "arquivo": "plugins/jf_etiquetas_anotacao.jfpack",
       "iv": "7844bca33a677833dd8e5db05a0b7522",
       "sha256": "959f0b32c81c3ab333c7ca4948546f0dc550875dc8c83b5239620d2d0ad4cb2d",
@@ -32,7 +42,7 @@
       "pasta": "jf_gerar_relatorio",
       "titulo": "JF - Área do Ambiente",
       "versao": "2.15.2",
-      "tema": "03 - Det. Anotações e Área dos Ambientes",
+      "tema": "04 - Área dos Ambientes",
       "arquivo": "plugins/jf_gerar_relatorio.jfpack",
       "iv": "4ed28c64cd353a4632de8900b5bccc68",
       "sha256": "71237d2dfaa3dd9b95ad8a4c91272880def9b69b573190db9717858735699a60",
@@ -42,7 +52,7 @@
       "pasta": "esquadrias_relatorio",
       "titulo": "JF - Gerar Relatório - Esquadrias",
       "versao": "1.21.0",
-      "tema": "04 - Tabela das Esquadrias",
+      "tema": "05 - Tabela das Esquadrias",
       "arquivo": "plugins/esquadrias_relatorio.jfpack",
       "iv": "54e1970ae5022242262566ccc662a343",
       "sha256": "13b38a78b44c9756a9e211dd95183c7a0e2587da42350a4edd9d7dd9f70dc397",
@@ -52,7 +62,7 @@
       "pasta": "jf_det_marcenaria",
       "titulo": "JF - Det.Marcenaria",
       "versao": "6.1.0",
-      "tema": "05 - Det. Marcenaria",
+      "tema": "06 - Detalhamentos",
       "arquivo": "plugins/jf_det_marcenaria.jfpack",
       "iv": "5d69303a849278bf0038df1605d05740",
       "sha256": "e7f034c3d6b7d386cdda0941d7405f580ed0718cb76f34f47c1554cf6395f23a",
@@ -62,11 +72,21 @@
       "pasta": "anotacoes_checklist",
       "titulo": "JF - Checklist do projeto",
       "versao": "1.4.0",
-      "tema": "06 - Checklist do Projeto",
+      "tema": "07 - Checklist do Projeto",
       "arquivo": "plugins/anotacoes_checklist.jfpack",
       "iv": "a29ad3b567643c90f20fec1f3da11ee1",
       "sha256": "d67144341154db2f695ab49e42ecfe45319d390e7b453526729ff184ddaa738c",
       "notas": ""
+    },
+    {
+      "pasta": "memorial_mobiliario",
+      "titulo": "Gerar relatório - Mobiliário",
+      "versao": "1.2.0",
+      "tema": "08 - Mobiliário",
+      "arquivo": "plugins/memorial_mobiliario.jfpack",
+      "iv": "7ddeecf8ea1e283db2bbc94185e9bf22",
+      "sha256": "bf85f72ea6fc4d7a1145a1481a9d6a1446819d62ba43714e674917d51ace4d7d",
+      "notas": "Novo: memorial de mobiliário com imagem, quantidade, cor e medidas."
     }
   ]
 }
