@@ -1,11 +1,11 @@
 {
-  "gerado_em": "09/11/2026 10:54",
+  "gerado_em": "11/11/2026 09:55",
   "painel": {
     "versao": "3.5.0",
     "arquivo": "painel/JF_Meu_Escritorio.jfpack",
-    "iv": "0c41fcf61d7379ab8ea98ebb08f78a78",
-    "sha256": "c1f44644d7f9f0fb343d5bb66ac8253fb4e6557d8f4e3563003961fa34351172",
-    "notas": "Visual novo: estilo Areia."
+    "iv": "72b14409814c6817b51c392ad8f5e522",
+    "sha256": "eb571b7d8873ba2f93521e7a1c4847c645f47cbd3190bbb599cb639da4206148",
+    "notas": ""
   },
   "plugins": [
     {
@@ -14,19 +14,19 @@
       "versao": "1.12.0",
       "tema": "01 - Ferramentas",
       "arquivo": "plugins/jf_folga_portas.jfpack",
-      "iv": "1133ae1a134f11840c51bdce3753d848",
-      "sha256": "f4fc513a90e4fad719d967eeece02a078ee71fb02a0733eb4af4dd8a7cd44ca0",
-      "notas": "Visual novo: estilo Areia."
+      "iv": "204c0d16c626b287e7c078ee114652c3",
+      "sha256": "2fe9e5dfc89d23175fde43a3f822e3bfe9a45999f0b2d3ae1c2fe31aa5769f9c",
+      "notas": ""
     },
     {
       "pasta": "jf_print_lote",
       "titulo": "JF - Print em Lote",
-      "versao": "1.6.0",
+      "versao": "1.7.0",
       "tema": "02 - Print e Tour 360",
       "arquivo": "plugins/jf_print_lote.jfpack",
-      "iv": "59a42f9c328f4d6942fc9f0728231160",
-      "sha256": "0236353c61fe3f8d83bed43ee820beaa74140f09c1b505bff392e10ba8e74dd1",
-      "notas": "Visual novo: estilo Areia."
+      "iv": "0155ffbb6fe5d40560b1f915b8bd8d96",
+      "sha256": "f4bd02c5246ac10a78f8eb5fd3f7877324c03f919b330f3f7d2f54a57febea46",
+      "notas": "Novo: prompt para IA (Flow / Gemini) gerado a partir de cada vista."
     },
     {
       "pasta": "tour360",
@@ -34,9 +34,9 @@
       "versao": "1.8.0",
       "tema": "02 - Print e Tour 360",
       "arquivo": "plugins/tour360.jfpack",
-      "iv": "fb17bc8ee1c045a58e7236f15bb3cd72",
-      "sha256": "38c2e9b79d0b4793a9ef42a7540cf67ae57a0f0ed0c28801cfde858e50278aee",
-      "notas": "Visual novo: estilo Areia."
+      "iv": "e1b1035be434d1ab19737d9e8a3b9c37",
+      "sha256": "1fa49417654191ae2ca24d7885d245192ff6c318c9ba2f834eb78e66b95697f6",
+      "notas": ""
     },
     {
       "pasta": "jf_etiquetas_anotacao",
@@ -44,9 +44,9 @@
       "versao": "1.6.0",
       "tema": "03 - Det. Anotações",
       "arquivo": "plugins/jf_etiquetas_anotacao.jfpack",
-      "iv": "dbcabd906843c849a092a0a7114e0048",
-      "sha256": "f3c066931c0b322e2768f1aaba429a3ffdbbfed9a1597c4356bf08388166d5ba",
-      "notas": "Visual novo: estilo Areia."
+      "iv": "da95d83028bf3db26a30ec7190506fc8",
+      "sha256": "a2c01680ab0db0c8c8b2aac6bf0a1098abf68092cabcf5fbc6b25362044f4058",
+      "notas": ""
     },
     {
       "pasta": "jf_gerar_relatorio",
@@ -54,9 +54,9 @@
       "versao": "2.16.0",
       "tema": "04 - Área dos Ambientes",
       "arquivo": "plugins/jf_gerar_relatorio.jfpack",
-      "iv": "b5dea8a77413918a4d417d3606101168",
-      "sha256": "ecbb2426cf8c4ace915e8a2b3969d5033b722e085678e015c9796194cf0bb97b",
-      "notas": "Visual novo: estilo Areia."
+      "iv": "c3bbc74a3d426d5bbce23d4352375dba",
+      "sha256": "0e71aa2ea9cb094b2ce62254dd46792de7bd39e599c6dc8c7a3f0c73fe6db825",
+      "notas": ""
     },
     {
       "pasta": "esquadrias_relatorio",
@@ -64,9 +64,9 @@
       "versao": "1.22.0",
       "tema": "05 - Tabela das Esquadrias",
       "arquivo": "plugins/esquadrias_relatorio.jfpack",
-      "iv": "4f90209f8baff3c494097ac45a177479",
-      "sha256": "a342a73fcff6c5a904a9f826797e214de88453a3ce924782447357a686775b27",
-      "notas": "Visual novo: estilo Areia."
+      "iv": "f042ed2d3b9e848a21f5069852ccf893",
+      "sha256": "75e58b1117fd0a9857b294c83e6db30a44d1a2616afac9dd28c7fa84156e23ba",
+      "notas": ""
     },
     {
       "pasta": "jf_det_marcenaria",
@@ -74,9 +74,9 @@
       "versao": "6.2.0",
       "tema": "06 - Detalhamentos e Layout",
       "arquivo": "plugins/jf_det_marcenaria.jfpack",
-      "iv": "ec80ed9aed217aea900e5e08af058acf",
-      "sha256": "5fcafadec3b080b75642d92b9580e7d45538577fa658f09d4883a3b291ca6802",
-      "notas": "Visual novo: estilo Areia."
+      "iv": "6f029e0604102dd68567cb41d47cd787",
+      "sha256": "5f393d336c79612c1e3d79fd5d324d75ca50dc134e9545c14124095ac3da2cf4",
+      "notas": ""
     },
     {
       "pasta": "anotacoes_checklist",
@@ -84,9 +84,9 @@
       "versao": "1.5.0",
       "tema": "07 - Checklist do Projeto",
       "arquivo": "plugins/anotacoes_checklist.jfpack",
-      "iv": "79a0adeb7a232fd2c0bc3f82094bbd0b",
-      "sha256": "f1d3861c5d0594f1c568abacb84b2ce871e72b8b0c02bb7bc4ccca04cc1406c7",
-      "notas": "Visual novo: estilo Areia."
+      "iv": "d5504568e4cc507055c3cfcf0ca6e0f6",
+      "sha256": "510cd30e15ad02110a88757f1c388c823b39ad28cd2240748c79c16feb97cc80",
+      "notas": ""
     },
     {
       "pasta": "memorial_mobiliario",
@@ -94,9 +94,9 @@
       "versao": "1.3.0",
       "tema": "08 - Mobiliário",
       "arquivo": "plugins/memorial_mobiliario.jfpack",
-      "iv": "801e86ba5dfd600b9983219c227742fd",
-      "sha256": "acc0c4e8e79de9d0504d7b8b0c82a916b61e8d8d1d6feb277d9d10b261c0e0e7",
-      "notas": "Visual novo: estilo Areia."
+      "iv": "80577d813f298a53ffd03280a9e882f7",
+      "sha256": "68defadc0acad74721a1f8ffd0165453a48454441dfe93523478ab98c6c40e89",
+      "notas": ""
     }
   ]
 }
