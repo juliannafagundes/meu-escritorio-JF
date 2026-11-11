@@ -1,11 +1,11 @@
 {
-  "gerado_em": "11/11/2026 09:55",
+  "gerado_em": "11/11/2026 10:09",
   "painel": {
-    "versao": "3.5.0",
+    "versao": "3.6.0",
     "arquivo": "painel/JF_Meu_Escritorio.jfpack",
-    "iv": "72b14409814c6817b51c392ad8f5e522",
-    "sha256": "eb571b7d8873ba2f93521e7a1c4847c645f47cbd3190bbb599cb639da4206148",
-    "notas": ""
+    "iv": "a535cf47877a0998a6f3c6a55bbb95d6",
+    "sha256": "771707bb267bee0f069ece3410578e3120409200c2e50de74b1da2a6b9458594",
+    "notas": "Tour 360 trocado pelo Tour 360 IA."
   },
   "plugins": [
     {
@@ -14,8 +14,8 @@
       "versao": "1.12.0",
       "tema": "01 - Ferramentas",
       "arquivo": "plugins/jf_folga_portas.jfpack",
-      "iv": "204c0d16c626b287e7c078ee114652c3",
-      "sha256": "2fe9e5dfc89d23175fde43a3f822e3bfe9a45999f0b2d3ae1c2fe31aa5769f9c",
+      "iv": "a3bdd85f852b997020fd84f33e12a2ce",
+      "sha256": "a1329174b19a95a6f41c7b3b32e4900479dd307c1b5a666344e926de4d370919",
       "notas": ""
     },
     {
@@ -24,19 +24,19 @@
       "versao": "1.7.0",
       "tema": "02 - Print e Tour 360",
       "arquivo": "plugins/jf_print_lote.jfpack",
-      "iv": "0155ffbb6fe5d40560b1f915b8bd8d96",
-      "sha256": "f4bd02c5246ac10a78f8eb5fd3f7877324c03f919b330f3f7d2f54a57febea46",
-      "notas": "Novo: prompt para IA (Flow / Gemini) gerado a partir de cada vista."
+      "iv": "3564eff85ad03f114a8f3e97203752a9",
+      "sha256": "4168a0707cf3bdbb67fb893b3bf09781c0b2860f1a5c30630445f2ed7cba57a4",
+      "notas": ""
     },
     {
-      "pasta": "tour360",
-      "titulo": "Tour 360",
-      "versao": "1.8.0",
+      "pasta": "jf_tour_ia",
+      "titulo": "JF - Tour 360 IA",
+      "versao": "1.0.0",
       "tema": "02 - Print e Tour 360",
-      "arquivo": "plugins/tour360.jfpack",
-      "iv": "e1b1035be434d1ab19737d9e8a3b9c37",
-      "sha256": "1fa49417654191ae2ca24d7885d245192ff6c318c9ba2f834eb78e66b95697f6",
-      "notas": ""
+      "arquivo": "plugins/jf_tour_ia.jfpack",
+      "iv": "85680cfeae18c814cdfddc4bda913082",
+      "sha256": "b6854034df9afebec04da286489372b0b287ce2238f8880edc4b86fd1611b3fb",
+      "notas": "Novo! Panorâmicas 360°, prompt para o Flow e envio ao Kuula."
     },
     {
       "pasta": "jf_etiquetas_anotacao",
@@ -44,8 +44,8 @@
       "versao": "1.6.0",
       "tema": "03 - Det. Anotações",
       "arquivo": "plugins/jf_etiquetas_anotacao.jfpack",
-      "iv": "da95d83028bf3db26a30ec7190506fc8",
-      "sha256": "a2c01680ab0db0c8c8b2aac6bf0a1098abf68092cabcf5fbc6b25362044f4058",
+      "iv": "697fba970cb216d266eabc91025ca82a",
+      "sha256": "7a09b9dd67285debc379d4a6806575b18c71feead64a8e05df668e172e6e97b3",
       "notas": ""
     },
     {
@@ -54,8 +54,8 @@
       "versao": "2.16.0",
       "tema": "04 - Área dos Ambientes",
       "arquivo": "plugins/jf_gerar_relatorio.jfpack",
-      "iv": "c3bbc74a3d426d5bbce23d4352375dba",
-      "sha256": "0e71aa2ea9cb094b2ce62254dd46792de7bd39e599c6dc8c7a3f0c73fe6db825",
+      "iv": "446b2523364637d1ffcf35c85970934c",
+      "sha256": "76de18c67533b7f91c8afbf485e090232d72ba6caaf7dc9fa9691281fe22e327",
       "notas": ""
     },
     {
@@ -64,8 +64,8 @@
       "versao": "1.22.0",
       "tema": "05 - Tabela das Esquadrias",
       "arquivo": "plugins/esquadrias_relatorio.jfpack",
-      "iv": "f042ed2d3b9e848a21f5069852ccf893",
-      "sha256": "75e58b1117fd0a9857b294c83e6db30a44d1a2616afac9dd28c7fa84156e23ba",
+      "iv": "e1aaf3496397dab21707d563723d67be",
+      "sha256": "4f7b69041b7dad19eb8c0868c71fa69563b4de731ac0355de5d138f1362fe79a",
       "notas": ""
     },
     {
@@ -74,8 +74,8 @@
       "versao": "6.2.0",
       "tema": "06 - Detalhamentos e Layout",
       "arquivo": "plugins/jf_det_marcenaria.jfpack",
-      "iv": "6f029e0604102dd68567cb41d47cd787",
-      "sha256": "5f393d336c79612c1e3d79fd5d324d75ca50dc134e9545c14124095ac3da2cf4",
+      "iv": "b05be275737ce964e0af464f807ed9d3",
+      "sha256": "04801ad672093860bd1e2f2efad41bb314c581c4257c445aa8e7d16cba65a11a",
       "notas": ""
     },
     {
@@ -84,8 +84,8 @@
       "versao": "1.5.0",
       "tema": "07 - Checklist do Projeto",
       "arquivo": "plugins/anotacoes_checklist.jfpack",
-      "iv": "d5504568e4cc507055c3cfcf0ca6e0f6",
-      "sha256": "510cd30e15ad02110a88757f1c388c823b39ad28cd2240748c79c16feb97cc80",
+      "iv": "52f121a1606b4873e13e6d812fe757b9",
+      "sha256": "ed151dd2d5c526ec0bae4891677cca997b6a40a5e0cf5fb702cda8f5d721e283",
       "notas": ""
     },
     {
@@ -94,9 +94,12 @@
       "versao": "1.3.0",
       "tema": "08 - Mobiliário",
       "arquivo": "plugins/memorial_mobiliario.jfpack",
-      "iv": "80577d813f298a53ffd03280a9e882f7",
-      "sha256": "68defadc0acad74721a1f8ffd0165453a48454441dfe93523478ab98c6c40e89",
+      "iv": "b6876c86e41eba5105f4b88274b52b61",
+      "sha256": "7f1e74ef1123d6d17e2903c658f377bf6b625545651eca99bcdf45cba836ed1e",
       "notas": ""
     }
+  ],
+  "remover": [
+    "tour360"
   ]
 }
