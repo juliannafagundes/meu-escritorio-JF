@@ -1,10 +1,10 @@
 {
-  "gerado_em": "12/11/2026 10:42",
+  "gerado_em": "12/11/2026 11:40",
   "painel": {
     "versao": "3.6.0",
     "arquivo": "painel/JF_Meu_Escritorio.jfpack",
-    "iv": "be7487755c144d34c8da7c539ee40662",
-    "sha256": "f50488c5129906a87208b5979c82b81f7de91533322dc2491e5204cc4dff74c5",
+    "iv": "ecabf7c54c6c5b372c16b915663a88de",
+    "sha256": "cd85c26d24399c99097bbfaf94d28ac68b8df717c0d68d124b7f111a92ad485b",
     "notas": ""
   },
   "plugins": [
@@ -14,8 +14,8 @@
       "versao": "1.12.0",
       "tema": "01 - Ferramentas",
       "arquivo": "plugins/jf_folga_portas.jfpack",
-      "iv": "fd91c42c0100812bd844b1ea6ef52937",
-      "sha256": "1736a98c6fb16c6eaff3b0a6f1768fea0c228b4f97cdc5f98bae4fbcc0cd0473",
+      "iv": "6db155402bdc2511c8c49b329961338f",
+      "sha256": "ba977ed23941655f529de886ff368fdd6bb87fd9b97200608b160fb0b9f99a1d",
       "notas": ""
     },
     {
@@ -24,8 +24,8 @@
       "versao": "1.7.0",
       "tema": "02 - Print e Tour 360",
       "arquivo": "plugins/jf_print_lote.jfpack",
-      "iv": "b7c07144a985f8eee7d89300dedb42d7",
-      "sha256": "dea280302fd6a53327d937fb1491d2179630bb47f02d80707d2902c234d7e553",
+      "iv": "6d71e9d186b3437124fb7764dca4c92d",
+      "sha256": "c130425487c7c14371cd3c98f1534d5933f447ff157edb33152514b07f1a78a3",
       "notas": ""
     },
     {
@@ -34,8 +34,8 @@
       "versao": "1.0.0",
       "tema": "02 - Print e Tour 360",
       "arquivo": "plugins/jf_tour_ia.jfpack",
-      "iv": "eb4d3699458a5482207237d721ea8225",
-      "sha256": "5749588ef35afe1354faa49acff4b02cb886cb1b8a60cfa03245530b093f7da7",
+      "iv": "048eac0e89ec7382f4a326babacda57e",
+      "sha256": "b54467a711bcf955cf355f49c926b717c729d1dea87b0f57d330f3420130836c",
       "notas": ""
     },
     {
@@ -44,8 +44,8 @@
       "versao": "1.6.0",
       "tema": "03 - Det. Anotações",
       "arquivo": "plugins/jf_etiquetas_anotacao.jfpack",
-      "iv": "c26ad665646ef00eb4a81e45927939e9",
-      "sha256": "8f150dcfab32283e79c9b1e2a2d2a1ba78041a8bfcc7267a12db420b9e3bebe8",
+      "iv": "d3882baba85cfd512f827cafd7dc5089",
+      "sha256": "af8892624b5e962e6c551cc87e1183b4c54629b0650459eb0a42a653c5051a4a",
       "notas": ""
     },
     {
@@ -54,8 +54,8 @@
       "versao": "2.16.0",
       "tema": "04 - Área dos Ambientes",
       "arquivo": "plugins/jf_gerar_relatorio.jfpack",
-      "iv": "f015137ed0a835f682252a9b8a7ed93d",
-      "sha256": "cc49c60983aa1d8852010e49076c285f521b60f038d6b1bb439f33987876137c",
+      "iv": "ba86da9814c6c1215946b952caaa7c76",
+      "sha256": "eda68fc2acfe6762a6a6fde51609c0d9f2d8e56164264368389abd50e04650ae",
       "notas": ""
     },
     {
@@ -64,19 +64,19 @@
       "versao": "1.22.0",
       "tema": "05 - Tabela das Esquadrias",
       "arquivo": "plugins/esquadrias_relatorio.jfpack",
-      "iv": "f465555b50a3cc8c4d717f05387d5bfe",
-      "sha256": "6955d1b56e36d36a789183f02e469e450f8cb70bd56097625b417ff194e16fe2",
+      "iv": "1cebfdadf4f090e56b41246cccc429f1",
+      "sha256": "54f6f32d15e4f4af936cf81d4d6dce09a8288277a9f3d1609b3286fdccde1f3b",
       "notas": ""
     },
     {
       "pasta": "jf_det_marcenaria",
       "titulo": "JF - Det.Marcenaria",
-      "versao": "6.4.1",
+      "versao": "6.4.2",
       "tema": "06 - Detalhamentos e Layout",
       "arquivo": "plugins/jf_det_marcenaria.jfpack",
-      "iv": "5747c8b314eaa01ece7836ab4535ac18",
-      "sha256": "7a4bf09d62d04f3419095388ae3058a14604f4fe5598077bdfa55cda001dd70e",
-      "notas": "Corrige o envio para o LayOut: as vistas saem sempre em Híbrido (com cores), não mais só com linhas."
+      "iv": "2b210478dbc69ae6d2b6c2f107106a62",
+      "sha256": "838a78b60fadd6dc0233e7b5e1309a4ed402291a9968d7aac1fd41744987c4ab",
+      "notas": "Pranchas do LayOut: as vistas ficam no modo escolhido (Híbrido, com cores) também ao exportar pelas Pranchas."
     },
     {
       "pasta": "anotacoes_checklist",
@@ -84,8 +84,8 @@
       "versao": "1.5.0",
       "tema": "07 - Checklist do Projeto",
       "arquivo": "plugins/anotacoes_checklist.jfpack",
-      "iv": "9daebb0953fe7caa889245b5416b4528",
-      "sha256": "07f65ba58dff223360b103b1e6bf9adf69bd567d3602d8d3cccfcefc7cffa800",
+      "iv": "28dfc8df8684acaa001530e2c89f45eb",
+      "sha256": "98c4e1d46c8770814467effb5751c6a1750fac36832e4ede9fb2ecb2ee51e17e",
       "notas": ""
     },
     {
@@ -94,8 +94,8 @@
       "versao": "1.3.0",
       "tema": "08 - Mobiliário",
       "arquivo": "plugins/memorial_mobiliario.jfpack",
-      "iv": "0c68ed3069d355307bb1fb2ed4846cb2",
-      "sha256": "89bd4fdfbb77667636db3ac8ff59cbc195d3381a00b9cfeb2012bbf4388a3033",
+      "iv": "57480de89496b9f2b997c9b65e58fbb1",
+      "sha256": "a80e86c190a5dcf30ddd0bcba6fd97117d4d909a467661f345e7dcfac4a14e82",
       "notas": ""
     }
   ],
