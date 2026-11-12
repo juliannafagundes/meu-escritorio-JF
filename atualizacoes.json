@@ -1,5 +1,5 @@
 {
-  "gerado_em": "12/11/2026 11:40",
+  "gerado_em": "12/11/2026 12:33",
   "painel": {
     "versao": "3.6.0",
     "arquivo": "painel/JF_Meu_Escritorio.jfpack",
@@ -71,12 +71,12 @@
     {
       "pasta": "jf_det_marcenaria",
       "titulo": "JF - Det.Marcenaria",
-      "versao": "6.4.2",
+      "versao": "6.4.3",
       "tema": "06 - Detalhamentos e Layout",
       "arquivo": "plugins/jf_det_marcenaria.jfpack",
-      "iv": "2b210478dbc69ae6d2b6c2f107106a62",
-      "sha256": "838a78b60fadd6dc0233e7b5e1309a4ed402291a9968d7aac1fd41744987c4ab",
-      "notas": "Pranchas do LayOut: as vistas ficam no modo escolhido (Híbrido, com cores) também ao exportar pelas Pranchas."
+      "iv": "bf379e740b207afd4eed92a4b3bbb760",
+      "sha256": "4dafa55c71764feef0cd3f222de32a63eb6e56ec125905db95cece0c3dce86db",
+      "notas": "Versão 6.4.3 do Det.Marcenaria."
     },
     {
       "pasta": "anotacoes_checklist",
