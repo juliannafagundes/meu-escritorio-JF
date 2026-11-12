@@ -12,6 +12,6 @@ Painel: versão 3.6.0
 | 03 - Det. Anotações | JF - Etiquetas Anotação | 1.6.0 |
 | 04 - Área dos Ambientes | JF - Área do Ambiente | 2.16.0 |
 | 05 - Tabela das Esquadrias | JF - Gerar Relatório - Esquadrias | 1.22.0 |
-| 06 - Detalhamentos e Layout | JF - Det.Marcenaria | 6.3.0 |
+| 06 - Detalhamentos e Layout | JF - Det.Marcenaria | 6.4.0 |
 | 07 - Checklist do Projeto | JF - Checklist do projeto | 1.5.0 |
 | 08 - Mobiliário | Gerar relatório - Mobiliário | 1.3.0 |
