@@ -1,5 +1,5 @@
 {
-  "gerado_em": "17/11/2026 11:00",
+  "gerado_em": "17/11/2026 15:22",
   "painel": {
     "versao": "3.6.0",
     "arquivo": "painel/JF_Meu_Escritorio.jfpack",
@@ -97,6 +97,16 @@
       "iv": "57480de89496b9f2b997c9b65e58fbb1",
       "sha256": "a80e86c190a5dcf30ddd0bcba6fd97117d4d909a467661f345e7dcfac4a14e82",
       "notas": ""
+    },
+    {
+      "pasta": "jf_tomadas_relatorio",
+      "titulo": "JF - Tomadas e Interruptores",
+      "versao": "1.2.0",
+      "tema": "09 - Tomadas e Interruptores",
+      "arquivo": "plugins/jf_tomadas_relatorio.jfpack",
+      "iv": "ab206fe43b11df914c940b05864e10db",
+      "sha256": "a5c5159d036ff6505c062e7664f24d08d287efb024101a4662a2a6f8d36ab786",
+      "notas": "Novo: memorial de tomadas, interruptores, dados e pontos de LED por ambiente, e mostrar/ocultar as alturas na planta."
     }
   ],
   "remover": [
