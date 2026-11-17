@@ -1,5 +1,5 @@
 {
-  "gerado_em": "12/11/2026 12:33",
+  "gerado_em": "17/11/2026 11:00",
   "painel": {
     "versao": "3.6.0",
     "arquivo": "painel/JF_Meu_Escritorio.jfpack",
@@ -51,12 +51,12 @@
     {
       "pasta": "jf_gerar_relatorio",
       "titulo": "JF - Área do Ambiente",
-      "versao": "2.16.0",
+      "versao": "2.17.0",
       "tema": "04 - Área dos Ambientes",
       "arquivo": "plugins/jf_gerar_relatorio.jfpack",
-      "iv": "ba86da9814c6c1215946b952caaa7c76",
-      "sha256": "eda68fc2acfe6762a6a6fde51609c0d9f2d8e56164264368389abd50e04650ae",
-      "notas": ""
+      "iv": "1b67d91cab30577b4b68ab9d5ae1ae81",
+      "sha256": "d96da659ab77968fe45b1b2ce681da3c3cf5b6ed66ede72bdf2a127ce967586c",
+      "notas": "Nomes no LayOut: agora escolhe enviar os ambientes novos (anotados pelo plugin) e/ou os antigos (texto 3D lido)."
     },
     {
       "pasta": "esquadrias_relatorio",
