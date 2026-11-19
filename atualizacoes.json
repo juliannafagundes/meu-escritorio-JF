@@ -1,5 +1,5 @@
 {
-  "gerado_em": "19/11/2026 14:29",
+  "gerado_em": "19/11/2026 15:09",
   "painel": {
     "versao": "3.6.0",
     "arquivo": "painel/JF_Meu_Escritorio.jfpack",
@@ -61,12 +61,12 @@
     {
       "pasta": "esquadrias_relatorio",
       "titulo": "JF - Gerar Relatório - Esquadrias",
-      "versao": "1.23.0",
+      "versao": "1.23.1",
       "tema": "05 - Tabela das Esquadrias",
       "arquivo": "plugins/esquadrias_relatorio.jfpack",
-      "iv": "5182056f10c5fe0f989b9635e1429e63",
-      "sha256": "5c2acabd52c81584145d776f77055d9173fdee23ec19da8ad256e1c3347ce4b5",
-      "notas": "Novo: \"Abrir no LayOut (.layout)\" — cria um arquivo do LayOut com a tabela igual ao PDF, editável, com carimbo."
+      "iv": "2ca921fbcc0af8149653d4e873d64380",
+      "sha256": "74fbb0975f2e0ddc5be21a0934d1ce1995e5aeef9dba53c0471d6d9f5056d326",
+      "notas": "Novo: \"Trocar modelo do LayOut…\" (usar seu .layout com folha e carimbo, ou A4 em branco); salvar lembra a última pasta."
     },
     {
       "pasta": "jf_det_marcenaria",
