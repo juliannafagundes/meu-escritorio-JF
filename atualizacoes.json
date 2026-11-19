@@ -1,5 +1,5 @@
 {
-  "gerado_em": "17/11/2026 15:22",
+  "gerado_em": "19/11/2026 13:10",
   "painel": {
     "versao": "3.6.0",
     "arquivo": "painel/JF_Meu_Escritorio.jfpack",
@@ -61,12 +61,12 @@
     {
       "pasta": "esquadrias_relatorio",
       "titulo": "JF - Gerar Relatório - Esquadrias",
-      "versao": "1.22.0",
+      "versao": "1.22.1",
       "tema": "05 - Tabela das Esquadrias",
       "arquivo": "plugins/esquadrias_relatorio.jfpack",
-      "iv": "1cebfdadf4f090e56b41246cccc429f1",
-      "sha256": "54f6f32d15e4f4af936cf81d4d6dce09a8288277a9f3d1609b3286fdccde1f3b",
-      "notas": ""
+      "iv": "fb47e748eb7858bf53f83d9ef971b0c6",
+      "sha256": "927465d52119575150e1953aa12e396d7f235564708f02717afeb1ad869aa49c",
+      "notas": "Medidas da esquadria mais certas (ignora símbolo, linhas de apoio, cotas e textos, também dentro de blocos); \"-\" no parapeito/alisar = não tem; novos tipo e material; botão \"Símbolos na planta\" saiu."
     },
     {
       "pasta": "jf_det_marcenaria",
