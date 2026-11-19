@@ -1,5 +1,5 @@
 {
-  "gerado_em": "19/11/2026 13:10",
+  "gerado_em": "19/11/2026 13:23",
   "painel": {
     "versao": "3.6.0",
     "arquivo": "painel/JF_Meu_Escritorio.jfpack",
@@ -61,12 +61,12 @@
     {
       "pasta": "esquadrias_relatorio",
       "titulo": "JF - Gerar Relatório - Esquadrias",
-      "versao": "1.22.1",
+      "versao": "1.22.2",
       "tema": "05 - Tabela das Esquadrias",
       "arquivo": "plugins/esquadrias_relatorio.jfpack",
-      "iv": "fb47e748eb7858bf53f83d9ef971b0c6",
-      "sha256": "927465d52119575150e1953aa12e396d7f235564708f02717afeb1ad869aa49c",
-      "notas": "Medidas da esquadria mais certas (ignora símbolo, linhas de apoio, cotas e textos, também dentro de blocos); \"-\" no parapeito/alisar = não tem; novos tipo e material; botão \"Símbolos na planta\" saiu."
+      "iv": "33ea5c89c07a4cb2f7f4806aad2cee33",
+      "sha256": "a3920884ddb1c8078fad4d0c558566144980e753544b58dd4c2732114b7695ba",
+      "notas": "Exportar Excel (.xlsx) com bordas igual ao PDF; Copiar para o Excel com bordas; carimbo no rodapé do PDF; portas, vãos e janelas em tabelas separadas."
     },
     {
       "pasta": "jf_det_marcenaria",
