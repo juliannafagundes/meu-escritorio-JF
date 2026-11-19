@@ -1,5 +1,5 @@
 {
-  "gerado_em": "19/11/2026 13:23",
+  "gerado_em": "19/11/2026 13:36",
   "painel": {
     "versao": "3.6.0",
     "arquivo": "painel/JF_Meu_Escritorio.jfpack",
@@ -61,12 +61,12 @@
     {
       "pasta": "esquadrias_relatorio",
       "titulo": "JF - Gerar Relatório - Esquadrias",
-      "versao": "1.22.2",
+      "versao": "1.22.3",
       "tema": "05 - Tabela das Esquadrias",
       "arquivo": "plugins/esquadrias_relatorio.jfpack",
-      "iv": "33ea5c89c07a4cb2f7f4806aad2cee33",
-      "sha256": "a3920884ddb1c8078fad4d0c558566144980e753544b58dd4c2732114b7695ba",
-      "notas": "Exportar Excel (.xlsx) com bordas igual ao PDF; Copiar para o Excel com bordas; carimbo no rodapé do PDF; portas, vãos e janelas em tabelas separadas."
+      "iv": "6b2ce936b3ae68da194f01221a3b4b04",
+      "sha256": "56d316415bd073e20fb71ade02a37270ba2b9feb5e95ac2185045b72f64e1d6d",
+      "notas": "Salvar Excel/CSV: abre na pasta do projeto, corrige nomes com ponto (ex.: \"DET. EXECUTIVO\"), confirma o arquivo e oferece abrir a pasta."
     },
     {
       "pasta": "jf_det_marcenaria",
