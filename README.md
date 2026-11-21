@@ -11,7 +11,7 @@ Painel: versão 3.6.0
 | 02 - Print e Tour 360 | JF - Tour 360 IA | 1.0.0 |
 | 03 - Det. Anotações | JF - Etiquetas Anotação | 1.6.0 |
 | 04 - Área dos Ambientes | JF - Área do Ambiente | 2.17.0 |
-| 05 - Tabela das Esquadrias | JF - Gerar Relatório - Esquadrias | 1.23.1 |
+| 05 - Tabela das Esquadrias | JF - Gerar Relatório - Esquadrias | 1.23.2 |
 | 06 - Detalhamentos e Layout | JF - Det.Marcenaria | 6.4.3 |
 | 07 - Checklist do Projeto | JF - Checklist do projeto | 1.5.0 |
 | 08 - Mobiliário | Gerar relatório - Mobiliário | 1.3.0 |
