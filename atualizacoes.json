@@ -1,5 +1,5 @@
 {
-  "gerado_em": "21/11/2026 20:29",
+  "gerado_em": "21/11/2026 20:48",
   "painel": {
     "versao": "3.6.0",
     "arquivo": "painel/JF_Meu_Escritorio.jfpack",
@@ -101,12 +101,12 @@
     {
       "pasta": "jf_tomadas_relatorio",
       "titulo": "JF - Projeto de Pontos de Instalações",
-      "versao": "2.0.1",
+      "versao": "2.0.2",
       "tema": "09 - Pontos de Instalações",
       "arquivo": "plugins/jf_tomadas_relatorio.jfpack",
-      "iv": "0e2706bb9cd7e51b9d81668f737603ac",
-      "sha256": "cacd43fd6b4c3af168915c1f993cb1e66486e534a1f0e95e39bf525d5c84ea5d",
-      "notas": "Agora \"Projeto de Pontos de Instalações\": tomadas, interruptores, iluminação, hidráulica e alturas nas paredes; exportar escolhendo as tabelas; imagens dos blocos; alturas na planta por tipo (pasta 09_ANOTACOES)."
+      "iv": "90d3db2f27f300b7e013296e6ce1990b",
+      "sha256": "17ee5446443f3c4990567c238a9d3709f494ef47217b4aeaff876a0f5eb4d0d4",
+      "notas": "Alturas na planta agora em só 3 etiquetas: elétrica (tomadas e interruptores), hidráulica e ponto de parede; as etiquetas antigas são trocadas sozinhas."
     }
   ],
   "remover": [
