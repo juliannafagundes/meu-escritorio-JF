@@ -15,4 +15,4 @@ Painel: versão 3.6.0
 | 06 - Detalhamentos e Layout | JF - Det.Marcenaria | 6.4.3 |
 | 07 - Checklist do Projeto | JF - Checklist do projeto | 1.5.0 |
 | 08 - Mobiliário | Gerar relatório - Mobiliário | 1.3.0 |
-| 09 - Tomadas e Interruptores | JF - Tomadas e Interruptores | 1.2.0 |
+| 09 - Pontos de Instalações | JF - Projeto de Pontos de Instalações | 2.0.1 |
