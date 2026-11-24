@@ -1,5 +1,5 @@
 {
-  "gerado_em": "21/11/2026 20:48",
+  "gerado_em": "24/11/2026 10:32",
   "painel": {
     "versao": "3.6.0",
     "arquivo": "painel/JF_Meu_Escritorio.jfpack",
@@ -21,12 +21,12 @@
     {
       "pasta": "jf_print_lote",
       "titulo": "JF - Print em Lote",
-      "versao": "1.7.0",
+      "versao": "1.8.0",
       "tema": "02 - Print e Tour 360",
       "arquivo": "plugins/jf_print_lote.jfpack",
-      "iv": "6d71e9d186b3437124fb7764dca4c92d",
-      "sha256": "c130425487c7c14371cd3c98f1534d5933f447ff157edb33152514b07f1a78a3",
-      "notas": ""
+      "iv": "9d96b253625307441e0e79b020b6786b",
+      "sha256": "c14220630ac06cb7d6531985b728d5a01f59fb30335aee249e752e51a245be16",
+      "notas": "Novo botão \"Excluir marcadas\" (apaga as vistas e as cenas delas; Ctrl+Z desfaz); adicionar cenas mostra só as que ainda não estão na lista."
     },
     {
       "pasta": "jf_tour_ia",
