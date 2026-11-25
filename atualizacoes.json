@@ -1,5 +1,5 @@
 {
-  "gerado_em": "25/11/2026 17:44",
+  "gerado_em": "25/11/2026 20:25",
   "painel": {
     "versao": "3.6.0",
     "arquivo": "painel/JF_Meu_Escritorio.jfpack",
@@ -21,12 +21,12 @@
     {
       "pasta": "jf_print_lote",
       "titulo": "JF - Print em Lote",
-      "versao": "1.9.0",
+      "versao": "1.9.1",
       "tema": "02 - Print e Tour 360",
       "arquivo": "plugins/jf_print_lote.jfpack",
-      "iv": "ab0de9bf8279651ea21e5288b4807d65",
-      "sha256": "54758d9ba6a221045b9370b9d2c7f34830a561df0178d6c077df79ec52e4be50",
-      "notas": "Excluir cenas com segurança (uma por vez, com progresso); botão STOP; \"Atualizar todas\" as miniaturas; Shift+clique e filtro para marcar cenas; pedido para o Gem/ChatGPT e botão Abrir Gemini."
+      "iv": "c24595c718e4f0338b1d6fb8748ab98c",
+      "sha256": "ecf297a5750c15e315201a73484bb24e7af75b2624647ab8f55e92b380a49f7c",
+      "notas": "Excluir cenas mais seguro: troca de cena e espera o SketchUp terminar antes de apagar; cada cena numa operação própria."
     },
     {
       "pasta": "jf_tour_ia",
