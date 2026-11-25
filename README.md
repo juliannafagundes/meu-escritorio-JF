@@ -9,6 +9,7 @@ Painel: versão 3.6.0
 | 01 - Ferramentas | JF - Ferramentas de Portas | 1.12.0 |
 | 02 - Print e Tour 360 | JF - Print em Lote | 1.9.0 |
 | 02 - Print e Tour 360 | JF - Tour 360 IA | 1.0.1 |
+| 02 - Print e Tour 360 | JF - Visualizador 3D | 1.0.1 |
 | 03 - Det. Anotações | JF - Etiquetas Anotação | 1.6.0 |
 | 04 - Área dos Ambientes | JF - Área do Ambiente | 2.17.0 |
 | 05 - Tabela das Esquadrias | JF - Gerar Relatório - Esquadrias | 1.23.2 |

@@ -1,5 +1,5 @@
 {
-  "gerado_em": "25/11/2026 17:30",
+  "gerado_em": "25/11/2026 17:44",
   "painel": {
     "versao": "3.6.0",
     "arquivo": "painel/JF_Meu_Escritorio.jfpack",
@@ -37,6 +37,16 @@
       "iv": "95a99fb192f13e4f97fe07cba09fa469",
       "sha256": "009d909cb36938805306e7e3d7794f903c135cee6e1db190014c6fb0f27e2bfa",
       "notas": "Kuula: \"Criar novo tour\" (as fotos vão para Meus Passeios) e botão \"Meus Passeios\" para adicionar fotos a um tour que já existe."
+    },
+    {
+      "pasta": "jf_tour_link",
+      "titulo": "JF - Visualizador 3D",
+      "versao": "1.0.1",
+      "tema": "02 - Print e Tour 360",
+      "arquivo": "plugins/jf_tour_link.jfpack",
+      "iv": "7b3e7645013d50ae44e9418b02d0fe7a",
+      "sha256": "bbff9cc759f1d10742318fdf5b7c58a6a14944dc58f466ba71d1536392a0e817",
+      "notas": "Novo: gera um tour 360° do modelo com setas entre os ambientes e publica num link (Netlify) com QR code, para abrir no celular ou notebook."
     },
     {
       "pasta": "jf_etiquetas_anotacao",
