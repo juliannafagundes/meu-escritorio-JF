@@ -1,11 +1,11 @@
 {
-  "gerado_em": "27/11/2026 09:30",
+  "gerado_em": "27/11/2026 09:49",
   "painel": {
-    "versao": "3.6.0",
+    "versao": "3.7.0",
     "arquivo": "painel/JF_Meu_Escritorio.jfpack",
-    "iv": "ecabf7c54c6c5b372c16b915663a88de",
-    "sha256": "cd85c26d24399c99097bbfaf94d28ac68b8df717c0d68d124b7f111a92ad485b",
-    "notas": ""
+    "iv": "abd19cba4e684fa8b21a0852f27fc7d1",
+    "sha256": "731d057f1e95c241704fb02ac5f76a8bbadbbefcc83cc86491152d037f38d79b",
+    "notas": "Ícones novos no estilo Areia para todos os botões (barra e painel); pacote com as versões atuais de todos os plugins."
   },
   "plugins": [
     {
