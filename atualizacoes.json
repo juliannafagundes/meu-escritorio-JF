@@ -1,5 +1,5 @@
 {
-  "gerado_em": "27/11/2026 09:13",
+  "gerado_em": "27/11/2026 09:30",
   "painel": {
     "versao": "3.6.0",
     "arquivo": "painel/JF_Meu_Escritorio.jfpack",
@@ -41,12 +41,12 @@
     {
       "pasta": "jf_tour_link",
       "titulo": "JF - Visualizador 3D",
-      "versao": "1.1.0",
+      "versao": "1.2.0",
       "tema": "02 - Print e Tour 360",
       "arquivo": "plugins/jf_tour_link.jfpack",
-      "iv": "9ef8cb082e6526c1bf615e6f9aec7c2f",
-      "sha256": "d55785835cb69fa63413613384a10f15e59c44a5a4810cf52ecc49f143057fb7",
-      "notas": "Prévia e pastas abrem certo no Windows (caminhos com acento e espaço)."
+      "iv": "f6332af48c99395a5e9b249479f48502",
+      "sha256": "5583fc495dc44008c6eb7eb63254b917173381e8ec2ba75d13edd83f48faa864",
+      "notas": "Baixar HTML: pergunta a pasta onde salvar (lembra a última), avisa se o arquivo já existe e mostra onde salvou."
     },
     {
       "pasta": "jf_etiquetas_anotacao",
