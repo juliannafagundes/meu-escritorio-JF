@@ -1,11 +1,11 @@
 {
-  "gerado_em": "27/11/2026 09:51",
+  "gerado_em": "27/11/2026 09:56",
   "painel": {
-    "versao": "3.7.1",
+    "versao": "3.7.2",
     "arquivo": "painel/JF_Meu_Escritorio.jfpack",
-    "iv": "ac744814106880a2a3be69b1ed009ff8",
-    "sha256": "cf6e386711ff68242405d98c7c4842027fda8c9927f9283279069bf5ddb29bf8",
-    "notas": "Ícones Areia com traço mais fino."
+    "iv": "7b532668b088685cc31d39e691986998",
+    "sha256": "70d35c29b5bdc15828e56f8b1d2d3dc1f11629afeb11914a6806a45ea1234b50",
+    "notas": "Ícones novos: traço marrom com preenchimento areia, sem fundo."
   },
   "plugins": [
     {
